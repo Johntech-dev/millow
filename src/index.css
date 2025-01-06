@@ -120,11 +120,11 @@ header {
 }
 
 .header__search {
-  padding: 25px;
+  padding: 20px;
   min-width: 40%;
 
   position: absolute;
-  top: 45%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -133,6 +133,7 @@ header {
   font-family: "Open Sans";
   font-size: 1.25em;
   font-weight: 600;
+  color: #202020;
 }
 
 .header__search:hover {
